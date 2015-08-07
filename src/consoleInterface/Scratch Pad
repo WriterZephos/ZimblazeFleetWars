@@ -1,0 +1,59 @@
+switch(optionCheck()){
+		
+		case "":
+			//do something
+			
+		
+		}
+		
+		
+		GameState
+		
+			PlayerFleet
+			ComputerFleet
+			
+			GameBalance (who is winning)
+			
+		
+		
+		done - FindTarget - method that determines if any enemy ships are in range, returns an arrayList of those ships.
+		
+		IsTargetVulnerable - method that decides whether valid targets are vulnerable.
+		
+		FindClosestTarget - finds closest target
+		
+		FindClosestVulnerableTarget - finds closest vulnerable target
+		
+		FindSpecialTarget - finds target of importance
+		
+		
+		IsTargetDangerous
+		
+		FindDangerousTarget
+		
+		FindClosestDangerousTarget
+		
+		
+		FindEnemyRange
+		
+		
+		
+		Game movement and distance measurement.
+		
+		50 pixels per 1 unit of range or speed.
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
