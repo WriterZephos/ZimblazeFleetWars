@@ -17,14 +17,14 @@ public class UIManager {
 		startWindow = new ZFrame("Zimblaze Fleet Wars");
 		initializeStartScreen();
 		GraphicsDevice gd = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice();
-		if (gd.isFullScreenSupported()) {
-			gd.setFullScreenWindow(startWindow);
-			try {
-				gd.setFullScreenWindow(startWindow);
-			} finally {
-			    gd.setFullScreenWindow(null);
-			}
-		}
+//		if (gd.isFullScreenSupported()) {
+//			gd.setFullScreenWindow(startWindow);
+//			try {
+//				gd.setFullScreenWindow(startWindow);
+//			} finally {
+//			    gd.setFullScreenWindow(null);
+//			}
+//		}
 	}
 	
 	
