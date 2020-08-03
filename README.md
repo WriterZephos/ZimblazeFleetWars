@@ -9,4 +9,6 @@ You can see a lot of those calculations here: https://github.com/WriterZephos/Zi
 
 The game allowed you to select a ship, and click a point to make it fly there, or click another ship to make it shoot a bomb or laser. Pretty silly, but it was fun!
 
+You can download the app [here](https://github.com/WriterZephos/ZimblazeFleetWars/raw/master/ZimblazeFleetWars.jar) (Java executable).
+
 ![Screen Shot](https://github.com/WriterZephos/ZimblazeFleetWars/blob/master/ZimblazeFleetWars.png?raw=true)
